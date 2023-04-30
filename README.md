@@ -1,3 +1,3 @@
 # piskulet.com
 
-https://orhns.github.io/piskulet.com/
+Just html and css
