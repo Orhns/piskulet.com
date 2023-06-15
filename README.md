@@ -1,6 +1,5 @@
 # piskulet.com
-Just html and css
-<br>
+Just html and css /n
 <a href="https://orhns.github.io/piskulet.com/">Visit piskulet.com</a> 
 <hr>
 <p align="center">
